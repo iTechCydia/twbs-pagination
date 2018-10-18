@@ -1,3 +1,11 @@
+/**
+ * jQuery pagination plugin
+ * https://github.com/iTechCydia/twbs-pagination
+ * 
+ * Copyright 2018, Vincent Bathelier
+ * Released under MIT Licence
+ * https://github.com/iTechCydia/twbs-pagination/blob/master/LICENSE
+ */
 (function ($) {
     $.fn.paginate = function (settings) {
         var config = {
